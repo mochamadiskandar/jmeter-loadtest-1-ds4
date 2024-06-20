@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1718905065118,322,Get User By Id,200,OK,Thread Group 1-1,text,true,,1182,220,1,1,https://reqres.in/api/users/1,322,0,253
+1718905065442,1167,Get List Users,200,OK,Thread Group 1-1,text,true,,2447,237,1,1,https://reqres.in/api/users?page=1&per_page=10,1167,0,0
+1718905066610,682,Register User,200,OK,Thread Group 1-1,text,true,,877,315,1,1,https://reqres.in/api/register,682,0,0
