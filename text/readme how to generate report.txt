@@ -11,7 +11,7 @@ dalam hal ini saya buat disini : \D:\PERSONAL\LEARN\QA\github\jmeter-loadtest-1\
 4. Masuk ke direktori 'apache-jmeter\bin'
 - buat folder 'report\jmeter\html' pada direktori yang diinginkan
 - jalankan perintah jmeter, adapun detailnya sebagai berikut :
-jmeter -g D:\PERSONAL\LEARN\QA\github\jmeter-loadtest-1\report\jmeter\logs\test_results.jtl -o D:\PERSONAL\LEARN\QA\github\jmeter-loadtest-1\report\jmeter\html
+jmeter -g E:\github\jmeter-loadtest-1-ds4\report\jmeter\logs\test_results.jtl -o E:\github\jmeter-loadtest-1-ds4\report\jmeter\html
 
 5. Buka folder 'report\jmeter\html', open file index.html di browser.
 
